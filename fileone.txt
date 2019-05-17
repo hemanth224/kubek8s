@@ -1,0 +1,5 @@
+1.	Downloaded docker tool box for windows
+2.	Downloaded openshift origin for oc platforms
+https://www.openshift.org/download.html#oc-platforms
+3.	Using cmd started oc in that folder
+
